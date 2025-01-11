@@ -1,1 +1,1 @@
-# DImensionality-Reduction-Using-K-Means-for-skeleton-Code
+# Dimensionality-Reduction-Using-K-Means-for-skeleton-Code
